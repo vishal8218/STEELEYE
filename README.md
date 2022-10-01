@@ -1,5 +1,5 @@
 
-# STEELEE
+# STEELEYE
 
 List is having four attribute index, isSelected, onclickhandler, text
 index used for item number ,isSelected used for background colour (green/red), onclickhandler is enables to call function / trigger action when click on it.
